@@ -1,12 +1,12 @@
 WARNING: This script is provided for education purposes only and as is. See license for more information about as is.
 
 [//]: # (   Among Us Impostor Glitch    )
-[//]: # (   Copyright (C) 2020  OPtimal    )
+[//]: # (   Copyright \(C\) 2020  OPtimal    )
             
 [//]: # (   This program is free software: you can redistribute it and/or modify    )
 [//]: # (   it under the terms of the GNU General Public License as published by    )
 [//]: # (   the Free Software Foundation, either version 3 of the License, or    )
-[//]: # (   (at your option) any later version.    )
+[//]: # (   \(at your option\) any later version.    )
             
 [//]: # (   This program is distributed in the hope that it will be useful,    )
 [//]: # (   but WITHOUT ANY WARRANTY; without even the implied warranty of    )
