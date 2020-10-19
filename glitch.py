@@ -30,7 +30,7 @@ under certain conditions; See LICENSE.md for details.
 
 list = []
 
-with open("list.json", "r") as file:
+with open("positions.json", "r") as file:
 	list = [tuple(x) for x in json.load(file)]
 
 lastchoice=(0, 0)
